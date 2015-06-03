@@ -1,0 +1,31 @@
+
+/*pályatípus szerinti színez*/
+        div.sordiagram .szinsf{
+		background:#EFE7E0;
+		border-right: 1px solid #FFF;
+		} 
+                
+        div.sordiagram .szinse{
+		background:#DF9153;
+		border-right: 1px solid #FFF;
+		} 
+        div.sordiagram .szinsd{
+		background:#8F5D35;
+		border-right: 1px solid #FFF;
+		}
+        div.sordiagram .szinle{
+		background:#DF6300;
+		border-right: 1px solid #FFF;
+		}
+        div.sordiagram .szinld{
+		background:#8F4000;
+		border-right: 1px solid #FFF;
+		}
+        div.sordiagram .szinlt{
+		background:#7F7B77;
+		border-right: 1px solid #FFF;
+		}
+        div.sordiagram .szinst{
+		background:#7F7B77;
+		border-right: 1px solid #FFF;
+		}        

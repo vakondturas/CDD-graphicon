@@ -1,0 +1,194 @@
+                                
+.jobbGomb{
+    text-align:right;
+    font-size:16px;
+    font-weight:bold;
+    }
+
+
+/*------------------*/
+/*saját, sordiagram*/
+
+div.sordiagram {
+	width:1580px;
+	min-height:750px;
+        
+        margin:20px 10px 0px 10px;
+	padding:0px 0px 0px 5px;
+        
+        background:#BFBFBF;        
+        font-style:normal;
+	}
+
+div.sordiagram .csapat {
+    float:left;
+    }
+    
+/*    egy futás*/
+div.sordiagram .fut {
+    float:left;
+    height:95px; 
+    margin:0px 0px 4px 0px;
+    padding: 4px 0px 0px 0px;
+    
+    font-size:16px;
+    }
+    
+
+/*különböző színek*/
+        div.sordiagram .szinido1{
+                float:left;
+                height:30px; 
+                margin:10px 0px 5px 0px;
+                
+		background:#B3C6EF;
+		} 
+        div.sordiagram .szinido2{
+                float:left;
+                height:30px; 
+                margin:10px 0px 5px 0px;
+                
+		background:#6B768F;
+		} 
+                
+                                                
+/*sorelemek általános*/
+div.sordiagram span.csapatnev {
+    float:left;
+/*    height:75px; */
+    width:100%;
+    margin:3px 0px 0px 0px;
+    padding: 3px 0px 0px 0px;
+    
+    font-style:italic;
+    font-weight:bold;
+    }
+                
+/*az elem hosszak*/
+div.sordiagram span.s0{width:0px;}
+div.sordiagram span.s1{width:2px;}
+div.sordiagram span.s2{width:4px;}
+div.sordiagram span.s3{width:6px;}
+div.sordiagram span.s4{width:8px;}
+div.sordiagram span.s5{width:10px;}
+div.sordiagram span.s6{width:12px;}
+div.sordiagram span.s7{width:14px;}
+div.sordiagram span.s8{width:16px;}
+div.sordiagram span.s9{width:18px;}
+div.sordiagram span.s10{width:20px;}
+div.sordiagram span.s11{width:22px;}
+div.sordiagram span.s12{width:24px;}
+div.sordiagram span.s13{width:26px;}
+div.sordiagram span.s14{width:28px;}
+div.sordiagram span.s15{width:30px;}
+div.sordiagram span.s16{width:32px;}
+div.sordiagram span.s17{width:34px;}
+div.sordiagram span.s18{width:36px;}
+div.sordiagram span.s19{width:38px;}
+div.sordiagram span.s20{width:40px;}
+div.sordiagram span.s21{width:42px;}
+div.sordiagram span.s22{width:44px;}
+div.sordiagram span.s23{width:46px;}
+div.sordiagram span.s24{width:48px;}
+div.sordiagram span.s25{width:50px;}
+div.sordiagram span.s26{width:52px;}
+div.sordiagram span.s27{width:54px;}
+div.sordiagram span.s28{width:56px;}
+div.sordiagram span.s29{width:58px;}
+div.sordiagram span.s30{width:60px;}
+div.sordiagram span.s31{width:62px;}
+div.sordiagram span.s32{width:64px;}
+div.sordiagram span.s33{width:66px;}
+div.sordiagram span.s34{width:68px;}
+div.sordiagram span.s35{width:70px;}
+div.sordiagram span.s36{width:72px;}
+div.sordiagram span.s37{width:74px;}
+div.sordiagram span.s38{width:76px;}
+div.sordiagram span.s39{width:78px;}
+div.sordiagram span.s40{width:80px;}
+div.sordiagram span.s41{width:82px;}
+div.sordiagram span.s42{width:84px;}
+div.sordiagram span.s43{width:86px;}
+div.sordiagram span.s44{width:88px;}
+div.sordiagram span.s45{width:90px;}
+div.sordiagram span.s46{width:92px;}
+div.sordiagram span.s47{width:94px;}
+div.sordiagram span.s48{width:96px;}
+div.sordiagram span.s49{width:98px;}
+div.sordiagram span.s50{width:100px;}
+div.sordiagram span.s51{width:102px;}
+div.sordiagram span.s52{width:104px;}
+div.sordiagram span.s53{width:106px;}
+div.sordiagram span.s54{width:108px;}
+div.sordiagram span.s55{width:110px;}
+div.sordiagram span.s56{width:112px;}
+div.sordiagram span.s57{width:114px;}
+div.sordiagram span.s58{width:116px;}
+div.sordiagram span.s59{width:118px;}
+div.sordiagram span.s60{width:120px;}
+div.sordiagram span.s61{width:122px;}
+div.sordiagram span.s62{width:124px;}
+div.sordiagram span.s63{width:126px;}
+div.sordiagram span.s64{width:128px;}
+div.sordiagram span.s65{width:130px;}
+div.sordiagram span.s66{width:132px;}
+div.sordiagram span.s67{width:134px;}
+div.sordiagram span.s68{width:136px;}
+div.sordiagram span.s69{width:138px;}
+div.sordiagram span.s70{width:140px;}
+div.sordiagram span.s71{width:142px;}
+div.sordiagram span.s72{width:144px;}
+div.sordiagram span.s73{width:146px;}
+div.sordiagram span.s74{width:148px;}
+div.sordiagram span.s75{width:150px;}
+div.sordiagram span.s76{width:152px;}
+div.sordiagram span.s77{width:154px;}
+div.sordiagram span.s78{width:156px;}
+div.sordiagram span.s79{width:158px;}
+div.sordiagram span.s80{width:160px;}
+div.sordiagram span.s81{width:162px;}
+div.sordiagram span.s82{width:164px;}
+div.sordiagram span.s83{width:166px;}
+div.sordiagram span.s84{width:168px;}
+div.sordiagram span.s85{width:170px;}
+div.sordiagram span.s86{width:172px;}
+div.sordiagram span.s87{width:174px;}
+div.sordiagram span.s88{width:176px;}
+div.sordiagram span.s89{width:178px;}
+div.sordiagram span.s90{width:180px;}
+div.sordiagram span.s91{width:182px;}
+div.sordiagram span.s92{width:184px;}
+div.sordiagram span.s93{width:186px;}
+div.sordiagram span.s94{width:188px;}
+div.sordiagram span.s95{width:190px;}
+div.sordiagram span.s96{width:192px;}
+div.sordiagram span.s97{width:194px;}
+div.sordiagram span.s98{width:196px;}
+div.sordiagram span.s99{width:198px;}
+div.sordiagram span.s100{width:200px;}
+div.sordiagram span.s101{width:202px;}
+div.sordiagram span.s102{width:204px;}
+div.sordiagram span.s103{width:206px;}
+div.sordiagram span.s104{width:208px;}
+div.sordiagram span.s105{width:210px;}
+div.sordiagram span.s106{width:212px;}
+div.sordiagram span.s107{width:214px;}
+div.sordiagram span.s108{width:216px;}
+div.sordiagram span.s109{width:218px;}
+div.sordiagram span.s110{width:220px;}
+div.sordiagram span.s111{width:222px;}
+div.sordiagram span.s112{width:224px;}
+div.sordiagram span.s113{width:226px;}
+div.sordiagram span.s114{width:228px;}
+div.sordiagram span.s115{width:230px;}
+div.sordiagram span.s116{width:232px;}
+div.sordiagram span.s117{width:234px;}
+div.sordiagram span.s118{width:236px;}
+div.sordiagram span.s119{width:238px;}
+div.sordiagram span.s120{width:240px;}
+
+.bal {
+    text-align:right;
+    font-style:italic;
+    font-size:14px;
+    }

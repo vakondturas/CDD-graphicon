@@ -1,0 +1,20 @@
+
+/*színek a futók szerint*/
+	div.sordiagram .szin1{
+		background:#c31b11;
+		} 
+	div.sordiagram .szin2{
+		background:#00a0a6;
+		} 
+	div.sordiagram .szin3{                
+		background:#00a627;
+		} 
+	div.sordiagram .szin4{                
+		background:#25cfd5;
+                }
+        div.sordiagram .szin5{                
+		background:#d56f25;
+		} 
+        div.sordiagram .szin6{                
+		background:#EFDB00;
+		} 
